@@ -5,5 +5,12 @@
 ## PoisonBoard V3 Now Public!
 
 <div align="center">
-  <img height="60" src="https://media.discordapp.net/attachments/958792475995156551/1163060136215072798/image.png"  />
+  <img height="80" src="https://media.discordapp.net/attachments/958792475995156551/1163060136215072798/image.png"  />
 </div>
+
+## BOM:
+- ESP32-S2-Saola
+- NRF24L01
+- (optional) 1x 10uF and 1x 0.1uF Capacitors
+- 8-Pin Right Angle Header
+- 10-Pin Right Angle Header
