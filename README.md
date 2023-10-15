@@ -13,3 +13,6 @@ Flipper Zero Boards that i have made.
   
 - PoisonBoard Mini: The Same as the above but way more compact WIP
   
+
+
+## let me know if you have any more board ideas!
