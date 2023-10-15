@@ -8,9 +8,16 @@
   <img height="300" src="https://media.discordapp.net/attachments/958792475995156551/1163060136215072798/image.png"  />
 </div>
 
+## What can you do with this board? You can:
+- use NRF sniffer and mousejacker apps on the Flipper to inject keystrokes wirelessly through the NRF24 module
+- use Marauder or any other firmware on the esp32 to do wifi reconnaissance
+- literally anything you want
+
 ## BOM:
 - ESP32-S2-Saola
 - NRF24L01
 - (optional) 1x 10uF and 1x 0.1uF Capacitors
 - 8-Pin Right Angle Header
 - 10-Pin Right Angle Header
+
+### BTW i havent really tested this Board jet so let me know if you have any issues! Also: should i add a sd card breakout board to the PoisonBoard?
