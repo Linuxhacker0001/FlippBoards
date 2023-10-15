@@ -5,5 +5,5 @@
 ## PoisonBoard V3 Now Public!
 
 <div align="center">
-  <img height="25" src="https://media.discordapp.net/attachments/958792475995156551/1163060136215072798/image.png"  />
+  <img height="60" src="https://media.discordapp.net/attachments/958792475995156551/1163060136215072798/image.png"  />
 </div>
