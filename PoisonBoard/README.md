@@ -22,4 +22,4 @@
 - 8-Pin Right Angle Header
 - 10-Pin Right Angle Header
 
-### I've made a case for this board! Make sure you check it out in the "Case" folder!
+### I've made a printable case for this board! Make sure you check it out in the "Case" folder!
