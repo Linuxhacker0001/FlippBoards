@@ -1,11 +1,13 @@
 <div align="center">
-  <img height="50" src="https://cdn.discordapp.com/attachments/1105916363081515029/1163064099714891806/Screenshot_2023-10-15_124000.png?ex=653e36da&is=652bc1da&hm=0640cf9c2291409453bdd94e187873ecbb6fee1edfab61a56cf9a2016fc04729&"  />
+  <img height="50" src="https://cdn.discordapp.com/attachments/1105916363081515029/1163064099714891806/Screenshot_2023-10-15_124000.png"  />
 </div>
 
 ## PoisonBoard V3 Now Public!
 
 <div align="center">
   <img height="300" src="https://media.discordapp.net/attachments/958792475995156551/1163060136215072798/image.png"  />
+  <img height="300" src="https://cdn.discordapp.com/attachments/1105916363081515029/1167519363616755753/Poisonboard_case_2.png"  />
+  <img height="300" src="https://cdn.discordapp.com/attachments/1105916363081515029/1167520269196329020/WhatsApp_Image_2023-10-27_at_19.48.19_2147624f.jpg"  />
 </div>
 
 ## What can you do with this board? You can:
@@ -20,4 +22,4 @@
 - 8-Pin Right Angle Header
 - 10-Pin Right Angle Header
 
-### BTW i havent really tested this Board jet so let me know if you have any issues! Also: should i add a sd card breakout board to the PoisonBoard?
+### I've made a case for this board! Make sure you check it out in the "Case" folder!
