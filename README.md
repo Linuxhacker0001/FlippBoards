@@ -1,7 +1,6 @@
 # FlippBoards
 Flipper Zero Boards that i have made.
 
-## currently these are the boards ive made/im making:
 
 
 ## PoisonBoard V3:
